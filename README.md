@@ -1,4 +1,4 @@
-### Hi there 👋
+### Why hello 👋
 
 <!--
 **kennethletran/kennethletran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Kenneth, an aspiring front end developer
+
+📖 I'm currently learning JavaScript, React, and Gatsby through <a href="wesbos.com">Wes Bos's</a> courses
+
+Here are some of my projects:
+
+🧼 <a href="https://homecleanhouston.com">Home Clean Housekeeping</a>
+📷 <a href="https://elizameadowsphotography.netlify.app">Eliza Meadows Photography</a>
+
+🛠 Personal Website currently in the works! 🛠
+
+<a href="https://codepen.io/kentaayy">CodePen</a>
