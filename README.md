@@ -22,7 +22,7 @@ Here are some of my projects:
 
 🧼 <a href="https://homecleanhouston.com">Home Clean Housekeeping</a>
 <br/>
-📷 <a href="https://elizameadowsphotography.netlify.app">Eliza Meadows Photography</a>
+📷 <a href="https://elizaphotography.netlify.app">Eliza Meadows Photography</a>
 
 🛠 Personal Website currently in the works! 🛠
 
