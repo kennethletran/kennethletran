@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Kenneth, an aspiring front end developer
 
-📖 I'm currently learning JavaScript, React, and Gatsby through <a href="https://wesbos.com/" target="_blank" rel="noopener">Wes Bos's</a> courses
+📖 I'm currently learning JavaScript, React, and Gatsby through <a href="https://wesbos.com/">Wes Bos's</a> courses
 
 Here are some of my projects:
 
