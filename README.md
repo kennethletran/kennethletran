@@ -18,6 +18,6 @@ I'm Kenneth, an aspiring front end developer
 
 📖 I'm currently learning JavaScript, React, and Gatsby through <a href="https://wesbos.com/">Wes Bos's</a> courses
 
-My personal portfolio can be found at <a href="https://kennethletran.dev">kennethletran.dev</a>
+My personal portfolio can be found at <a href="https://kennethletran.dev">kennethletran.dev</a> 🤙🏼
 
-<a href="https://codepen.io/kentaayy">CodePen</a>
+🛠 Feel free to check out my <a href="https://codepen.io/kentaayy">CodePen</a> for random projects 🛠
